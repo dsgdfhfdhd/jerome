@@ -1,8 +1,8 @@
-Flask==2.0.1
+Flask
 discord.py-self
-openai==0.27.0
-requests==2.25.1
-groq==0.1.0
-nacl==1.4.0
-gunicorn==20.1.0
+openai
+requests
+groq
+nacl
+gunicorn
 
