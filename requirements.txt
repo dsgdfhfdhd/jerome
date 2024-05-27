@@ -1,5 +1,5 @@
 Flask==2.0.1
-discord.py-self==1.16.0
+discord.py-self
 openai==0.27.0
 requests==2.25.1
 groq==0.1.0
